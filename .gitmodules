@@ -1,0 +1,6 @@
+[submodule "server-AKElab"]
+	path = server-AKElab
+	url = https://github.com/nicolasmarino99/server-AKElab.git
+[submodule "client-AKElab"]
+	path = client-AKElab
+	url = https://github.com/nicolasmarino99/client-AKElab.git
