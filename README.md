@@ -4,7 +4,11 @@ This App was built with express and react. You can see, all the movies from our 
 
 ## [Live version](https://AKElab-movies.herokuapp.com/)
 
+### Overview
 
+![Alt text](./imgs/img1.jpg)
+![Alt text](./imgs/img2.jpg) 
+![Alt text](./imgs/img3.jpg) 
 
 ### Install in Your local Machine
 
