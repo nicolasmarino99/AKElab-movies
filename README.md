@@ -2,7 +2,7 @@
 
 This App was built with express and react. You can see, all the movies from our api and post your thoughts on them.
 
-## [Live version](https://AKElab-movies.herokuapp.com/)
+## [Live version](https://AKElab-movies.netlify.app)
 
 ### Overview
 
